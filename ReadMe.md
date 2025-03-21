@@ -9,7 +9,7 @@ Este projeto visa gerenciar o transporte público escolar oferecido por um munic
 
 
 ### Modelo Lógico
-- **URL da Imagem do Modelo Lógico**: [Insira aqui a URL da imagem do modelo lógico]
+![App Screeshot](https://raw.githubusercontent.com/jandersn01/Transporte-Escolar-Postgres-PlpgSql/refs/heads/main/imgs/imagelogico.png)
 
 ## Estrutura do Banco de Dados
 
