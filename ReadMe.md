@@ -5,7 +5,7 @@ Este projeto visa gerenciar o transporte público escolar oferecido por um munic
 ## Modelos
 
 ### Modelo Conceitual
-![App Screenshot](https://raw.githubusercontent.com/jandersn01/Jogo-Da-Forca/refs/heads/main/src/JogoForcaImagens/exemploiniciar.png)
+![App Screenshot](https://raw.githubusercontent.com/jandersn01/Transporte-Escolar-Postgres-PlpgSql/refs/heads/main/imgs/imageconceitual.png)
 
 
 ### Modelo Lógico
